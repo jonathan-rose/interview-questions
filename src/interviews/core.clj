@@ -12,7 +12,7 @@
 ;; functions to catch bad inputs, I would say that's a little out of
 ;; the ordinary for clojure code, generally we assume the things
 ;; coming in are good without being too strict on what it could
-;; be. This lest us leverage the functions that work on a bunt of
+;; be. This lets us leverage 
 ;; different data types.
 
 ;; what you can do, if you still want these assertions is to add
